@@ -1,0 +1,1 @@
+[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "com.roxstar50.lightwake", "sha256_cert_fingerprints": ["FB:28:61:79:D8:D5:B6:7F:A9:2D:F8:37:3C:4D:8C:F4:7B:8E:89:76:82:E3:FE:ED:DA:0F:D9:30:A5:4B:BD:26"]}}]
